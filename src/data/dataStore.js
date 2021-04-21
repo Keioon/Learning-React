@@ -12,6 +12,7 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  logoIcon: 'link',
 };
 
 export const pageContents = {
@@ -20,9 +21,15 @@ export const pageContents = {
 };
 
 export const faqData = {
-  title: 'FAQ',
-  description: 'Lorem Ipsum...',
+  titleText: 'FAQ',
+  description: 'A collection of frequently asked questions.',
   image: 'https://i.postimg.cc/x89184d1/pexels-pixabay-221164.jpg',
+};
+
+export const infoData = {
+  titleText: 'Inoformation',
+  description: 'The most important information.',
+  image: 'https://i.postimg.cc/nL8HQHK0/pexels-erik-mclean-5727229.jpg',
 };
 
 export const listData = {
