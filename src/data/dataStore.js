@@ -19,7 +19,7 @@ export const pageContents = {
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
-export const FAQData = {
+export const faqData = {
   title: 'FAQ',
   description: 'Lorem Ipsum...',
   image: 'https://i.postimg.cc/x89184d1/pexels-pixabay-221164.jpg',
