@@ -11,7 +11,7 @@ class Container extends React.Component {
     const {children} = this.props;
     return(
       <div className={styles.component}>
-				 <children/>
+				 {children}
       </div>
     );
   }
